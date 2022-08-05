@@ -243,6 +243,7 @@
         <a href="#">Home</a>
         <a href="#">About</a>
         <a href="#">Contact</a>
+        <a href="#">Address</a>
       </div>
       <div class="links">
         <span>Social Links</span>
